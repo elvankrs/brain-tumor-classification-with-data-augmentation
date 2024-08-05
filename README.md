@@ -13,6 +13,8 @@ To address the limited size of the dataset, various data augmentation techniques
 2. **Deformable Methods**: Random displacement using elastic deformation.
 3. **Advanced Methods**: Generative Adversarial Networks (GANs) for generating new MRI images.
 
+![augmentation-methods](https://github.com/user-attachments/assets/22ed9730-a35b-4f58-81b4-5d7ab104392d)
+
 ## Results
 - The original dataset achieves an overall accuracy of 91%.
 - Applying basic augmentation techniques results in an accuracy drop to 87%.
